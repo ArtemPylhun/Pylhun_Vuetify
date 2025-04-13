@@ -54,7 +54,7 @@ export default defineComponent({
     items: [
       { title: 'List', icon: 'mdi-format-list-checks', to: '/' },
       { title: 'About', icon: 'mdi-help-box', to: '/about' },
-      { title: 'MyGroup', icon: 'mdi-account-group', to: '/mygroup' },
+      { title: 'My Group', icon: 'mdi-account-group', to: '/group' },
     ],
     right: null as null | boolean,
   }),
